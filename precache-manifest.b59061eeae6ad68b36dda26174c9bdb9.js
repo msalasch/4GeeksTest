@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/4GeeksTest/static/js/runtime~main.e4153a52.js"
   },
   {
-    "revision": "08c466a88e0d6e4c6374",
-    "url": "/4GeeksTest/static/js/main.08c466a8.chunk.js"
+    "revision": "df30f9d045a6eeb941a2",
+    "url": "/4GeeksTest/static/js/main.df30f9d0.chunk.js"
   },
   {
-    "revision": "991fe10bcaae11f452cf",
-    "url": "/4GeeksTest/static/js/1.991fe10b.chunk.js"
+    "revision": "c4a74085741b1f33969a",
+    "url": "/4GeeksTest/static/js/1.c4a74085.chunk.js"
   },
   {
-    "revision": "08c466a88e0d6e4c6374",
-    "url": "/4GeeksTest/static/css/main.7dc68b5c.chunk.css"
+    "revision": "df30f9d045a6eeb941a2",
+    "url": "/4GeeksTest/static/css/main.073b701e.chunk.css"
   },
   {
-    "revision": "cc93e177d1c1c7d88e413ad652ae42c0",
+    "revision": "b83d67377079d6b55888f6282533f121",
     "url": "/4GeeksTest/index.html"
   }
 ];
