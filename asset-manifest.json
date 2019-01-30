@@ -1,7 +1,7 @@
 {
   "main.css": "/4GeeksTest/static/css/main.7dc68b5c.chunk.css",
-  "main.js": "/4GeeksTest/static/js/main.08c466a8.chunk.js",
-  "main.js.map": "/4GeeksTest/static/js/main.08c466a8.chunk.js.map",
+  "main.js": "/4GeeksTest/static/js/main.a646144b.chunk.js",
+  "main.js.map": "/4GeeksTest/static/js/main.a646144b.chunk.js.map",
   "static/js/1.991fe10b.chunk.js": "/4GeeksTest/static/js/1.991fe10b.chunk.js",
   "static/js/1.991fe10b.chunk.js.map": "/4GeeksTest/static/js/1.991fe10b.chunk.js.map",
   "runtime~main.js": "/4GeeksTest/static/js/runtime~main.e4153a52.js",
@@ -12,6 +12,6 @@
   "static/media/jeans.png": "/4GeeksTest/static/media/jeans.857757fa.png",
   "static/css/main.7dc68b5c.chunk.css.map": "/4GeeksTest/static/css/main.7dc68b5c.chunk.css.map",
   "index.html": "/4GeeksTest/index.html",
-  "precache-manifest.914bba6cb07ff197888842690ceb046a.js": "/4GeeksTest/precache-manifest.914bba6cb07ff197888842690ceb046a.js",
+  "precache-manifest.5b24d5e186dd15ebcdb05ee612329ba5.js": "/4GeeksTest/precache-manifest.5b24d5e186dd15ebcdb05ee612329ba5.js",
   "service-worker.js": "/4GeeksTest/service-worker.js"
 }
