@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "product_name": "Jeans",
+            "description": "Blue Jeans",
+            "product_image": "jeans.png",
+            "price":500
+        },
+        {
+            "id": 2,
+            "product_name": "Socks",
+            "description": "Nice socks",
+            "product_image": "socks.png",
+            "price":1000
+        },
+        {
+            "id": 3,
+            "product_name": "Shoes",
+            "description": "Nike Shoes",
+            "product_image": "shoes.png",
+            "price":20000
+        },
+        {
+            "id": 4,
+            "product_name": "Short",
+            "description": "Beach Short",
+            "product_image": "short.svg",
+            "price":500
+        },
+        {
+            "id": 5,
+            "product_name": "Hat",
+            "description": "Blue Hat",
+            "product_image": "hat.png",
+            "price":500
+        }
+    ]
+}
